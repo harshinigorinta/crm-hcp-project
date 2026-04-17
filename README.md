@@ -137,7 +137,7 @@ The processed data is stored in the database and displayed through the frontend 
 ## Author
 
 Harshini Gorinta
-B.Tech Computer Science
+
 
 ---
 
@@ -147,11 +147,3 @@ B.Tech Computer Science
 * A valid Groq API key is required for AI features
 * Backend must be running before starting the frontend
 
----
-
-## Submission Checklist
-
-* Working frontend and backend
-* All five AI tools implemented
-* GitHub repository with complete code
-* Demo video (10–15 minutes)
