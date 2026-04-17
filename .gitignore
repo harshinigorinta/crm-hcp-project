@@ -1,0 +1,4 @@
+backend/.env 
+backend/__pycache__/ 
+backend/crm.db 
+frontend/node_modules/ 
